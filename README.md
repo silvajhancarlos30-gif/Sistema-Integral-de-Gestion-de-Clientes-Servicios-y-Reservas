@@ -2,9 +2,9 @@
 proyecto de programacion orientado a objetos de python
 
 ##integrantes
-Jaider Ghefrey
-Maribel Ruiz
-Jhan Carlos
+-Jaider Ghefrey Galindo
+-Maribel Ruiz
+-Jhan Carlos Silva
 
 ##funcionalidades
 -registro de clientes
